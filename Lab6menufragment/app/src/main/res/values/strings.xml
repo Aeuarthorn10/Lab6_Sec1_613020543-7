@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Lab6menufragment</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fragment_show">Fragment Show</string>
+    <string name="open_fragment_one">Open Fragment One</string>
+    <string name="open_fragment_two">Open Fragment Two</string>
+    <string name="open_fragment_three">Open Fragment Three</string>
+    <string name="click_to_fragment_two">Click to Fragment Two</string>
+    <string name="this_is_fragment_one">This is Fragment One</string>
+    <string name="click_me">click me</string>
+    <string name="this_is_fragment_two">This is Fragment Two</string>
+    <string name="this_is_fragment_three">This is Fragment Three</string>
+    <string name="click_me2">Click_me2</string>
+    <string name="click_me3">Click_me3</string>
+    <string name="This_is_Fragment_Three">This is Fragment Three</string>
+    <string name="This_is_Fragment_Two">This is Fragment Two</string>
+    <string name="Click_me">click_me</string>
+    <string name="This_is_Fragment_One">This is Fragment One</string>
+    <string name="Click_to_Fragment_Two">Click_to_Fragment_Two</string>
+</resources>
